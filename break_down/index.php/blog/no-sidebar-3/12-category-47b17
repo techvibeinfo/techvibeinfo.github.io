@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Right Sidebar</title>
+	<subtitle type="text">Towy template converted to Joomla by Windstripe Themes</subtitle>
+	<link rel="alternate" type="text/html" href="https://towy.codelayers.net"/>
+	<id>https://towy.codelayers.net/index.php/blog/no-sidebar-3/12-category-4</id>
+	<updated>2019-10-31T12:19:32+00:00</updated>
+	<author>
+		<name>Towy</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://towy.codelayers.net/index.php/blog/no-sidebar-3/12-category-4?format=feed&amp;type=atom"/>
+</feed>
